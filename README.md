@@ -76,5 +76,4 @@ This task is part of a Cyber Security Internship where the objective is to disco
 ---
 
 ## ✅ Task Completed
-All objectives were successfully completed and documented.  
-You can submit this GitHub repository link in the internship portal.
+All objectives were successfully completed and documented.
